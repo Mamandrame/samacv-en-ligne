@@ -1,0 +1,11 @@
+body{
+    background-color: antiquewhite;
+} 
+h1{ 
+    font-style: oblique; background-color: aqua;
+}
+p :hover {
+    color: #d36565;
+}
+h2{ font-size: medium; font-style: inherit;
+}
